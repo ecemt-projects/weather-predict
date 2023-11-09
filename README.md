@@ -1,4 +1,4 @@
-# weather-predict
+# Weather Predict
 
 In this study, K-Nearest Neighbor (KNN), Support Vector Machine (SVM), Gradient Boost and Extreme Gradient Boosting (XGBC) machine learning models are investigated with weather data.
 
